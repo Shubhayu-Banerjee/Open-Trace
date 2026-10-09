@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.5h | 5 |
+| Week 1 | Tier 1 | 9h | 5 |
 
 ## Contents
 
@@ -80,7 +80,7 @@ Routed USB 2.0; Buttons for reset and boot selection, and the AMS1117 for 5v fro
 
 ### 2026-10-09 – Connected up the buffer, went down a rabbit hole of ESD diodes only to ultimately not use any... not ideal.. but don't got any other option due to part availability sadly. Anyways the board is semi-of
 
-**2h**
+**1.5h**
 
 Connected up the buffer, went down a rabbit hole of ESD diodes only to ultimately not use any... not ideal.. but don't got any other option due to part availability sadly. Anyways the board is semi-officially done! Only thing that is left now is for the silkscreen (;
 
