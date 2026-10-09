@@ -1,2 +1,2 @@
 # Parallax
-Cheap open source Mechanical 3D Lidar
+Cheap open source USB Logic Analyzer
