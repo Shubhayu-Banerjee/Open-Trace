@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [535-ABM8-272-T3CT-ND](https://www.digikey.in/en/products/detail/abracon-llc/ABM8-272-T3/22472366) | Clock for the RP2040 | 1 | $0.69 | $0.69 | [Digikey](https://www.digikey.in/en/products/detail/abracon-llc/ABM8-272-T3/22472366) |
 | **Parts subtotal** | — | — | — | **$0.69** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$0.69** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$20.69** | — |
 
-$64.31 left of the tier's funding.
+$44.31 left of the tier's funding.
