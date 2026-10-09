@@ -26,7 +26,7 @@ I started designing Parallax; So I first researched suitable components and scop
 
 ![Screenshot 2026-10-09 113539](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cVW3XlG6C0wVhr0dFBaoEj1gd9FvCXuL/c62aea7ad4036daa6e6af8f86c915ec99b16a301c5b335d1367a69edd74451aa.jpg)
 
- my attempt at building an affordable 3D LiDAR from scratch. After exploring multiple sensors, I settled on one TFmini-S and a dual-axis stepper mechanism to keep costs within my $65 budget; I'm going to use 3D printed enclosures and am really hoping to achieve at least 5-10hz of update frequency. I'll pair it with Nema Stepper Motors, USB C and esp32!
+ my attempt at building an affordable 3D LiDAR from scratch. After exploring multiple sensors, I settled on one TFmini-S and a dual-axis stepper mechanism to keep costs within my $65 budget; I'm going to use 3D printed enclosures and am really hoping to achieve at least 5-10hz of update frequency. I'll pair it with Nema Stepper Motors, USB C and ESP32!
 If I can get this working, and eventually integrated with ROS 2; then this would beat some of the absolute CHEAPEST 3D lidars on the market by over 3x cost reduction (:
 
 ![Screenshot 2026-10-09 112740](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cVW3XlG6C0wVhr0dFBaoEj1gd9FvCXuL/357f378920899eaecbfd6adc9ee0acaf20d013d761c5905d7730986fb2ee3437.jpg)
