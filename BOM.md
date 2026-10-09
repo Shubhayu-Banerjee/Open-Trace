@@ -15,7 +15,7 @@
 | [NEMA 17](https://robu.in/product/42hs34-0406-nema-17-1-5kg-cm-stepper-motor-round-type/) | Azimuth and Sweep for the LIDAR | 2 | $7.34 | $14.68 | [Robu](https://robu.in/product/42hs34-0406-nema-17-1-5kg-cm-stepper-motor-round-type/) |
 | [Benewake TFMini-S Micro LiDAR Sensor](https://robu.in/product/tfmini-s-micro-lidar-distance-sensor/) | The main ranging sensor which will be adapted for the 3D LIDAR | 1 | $35.29 | $35.29 | [Robu](https://robu.in/product/tfmini-s-micro-lidar-distance-sensor/) |
 | **Parts subtotal** | — | — | — | **$49.97** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$49.97** | — |
+| **Tax & shipping** | — | — | — | **$1.00** | — |
+| **Total** | — | — | — | **$50.97** | — |
 
-$15.03 left of the tier's funding.
+$14.03 left of the tier's funding.
